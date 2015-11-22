@@ -9,3 +9,12 @@ projects:
     panels:
         version: ~
         subdir: "contrib"
+    admin_menu:
+        version: ~
+        subdir: "contrib"
+    cache_control:
+        version: ~
+        subdir: "contrib"
+    advagg:
+        version: ~
+        subdir: "contrib"
