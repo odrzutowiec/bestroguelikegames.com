@@ -1,7 +1,7 @@
 {
-  "name": "app",
-  "directory": "sites/all/libraries",
-  "dependencies": {
-    "flexslider": null
-  }
+	"name": "app",
+	"directory": "sites/all/libraries",
+	"dependencies": {
+		"flexslider": null
+	}
 }
