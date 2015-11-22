@@ -3,6 +3,7 @@ api: 2
 projects:
     - drupal
 # modules
+    - ctools
     - xautoload
     - views
     - panels
