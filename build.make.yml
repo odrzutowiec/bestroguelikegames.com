@@ -11,10 +11,4 @@ projects:
     - cache_control
     - advagg
 # themes
-    - hertz
     - ember
-    #- bluemasters
-    #- negosyante
-    #- touchpro
-    #- arctica
-    #- tundra
