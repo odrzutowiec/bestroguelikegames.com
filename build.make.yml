@@ -18,3 +18,5 @@ projects:
     advagg:
         version: ~
         subdir: "contrib"
+    ember:
+        version: ~
