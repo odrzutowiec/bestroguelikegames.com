@@ -12,3 +12,4 @@ projects:
     - advagg
 # themes
     - ember
+    - best_responsive
