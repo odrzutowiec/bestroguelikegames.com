@@ -1,8 +1,8 @@
 core: 7.x
 api: 2
 projects:
+# base modules
     - drupal
-# modules
     - ctools
     - xautoload
     - views
@@ -10,6 +10,10 @@ projects:
     - admin_menu
     - cache_control
     - advagg
+    - module_filter
+    - libraries
+# custom modules
+    - flexslider
 # themes
     - ember
     - best_responsive
