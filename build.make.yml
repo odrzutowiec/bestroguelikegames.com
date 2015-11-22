@@ -13,7 +13,7 @@ projects:
 # themes
     - hertz
     - ember
-    - bluemasters
+    #- bluemasters
     #- negosyante
     #- touchpro
     #- arctica
