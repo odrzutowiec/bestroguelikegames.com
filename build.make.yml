@@ -1,11 +1,12 @@
 core: 7.x
 api: 2
 projects:
-    - drupal:
-    - xautoload:
-    - views:
-    - panels:
-    - admin_menu:
-    - cache_control:
-    - advagg:
-    - ember:
+    - drupal
+    - xautoload
+    - views
+    - panels
+    - admin_menu
+    - cache_control
+    - advagg
+    - ember
+    - hertz
