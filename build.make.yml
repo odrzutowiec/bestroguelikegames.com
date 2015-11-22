@@ -9,13 +9,11 @@ projects:
     - admin_menu
     - cache_control
     - advagg
-    - skinr
-    - nitro
 # themes
     - hertz
     - ember
     - bluemasters
-    - negosyante
-    - touchpro
-    - arctica
-    - tundra
+    #- negosyante
+    #- touchpro
+    #- arctica
+    #- tundra
