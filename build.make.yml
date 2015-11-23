@@ -2,18 +2,19 @@ core: 7.x
 api: 2
 projects:
 # base modules
-    - drupal
-    - ctools
-    - xautoload
-    - views
-    - panels
-    - admin_menu
-    - cache_control
-    - advagg
-    - module_filter
-    - libraries
+    drupal:
+    ctools:
+    xautoload:
+    views:
+    panels:
+    admin_menu:
+    memcache:
+    cache_control:
+    advagg:
+    module_filter:
+    libraries:
 # custom modules
-    - flexslider
+    flexslider:
 # themes
-    - ember
-    - best_responsive
+    ember:
+    best_responsive:
