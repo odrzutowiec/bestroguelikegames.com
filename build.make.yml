@@ -8,7 +8,6 @@ projects:
     - views
     - panels
     - admin_menu
-    - memcache_storage
     - cache_control
     - advagg
     - module_filter
