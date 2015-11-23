@@ -12,6 +12,7 @@ projects:
     - cache_control
     - advagg
     - module_filter
+    - performance
     - libraries
 # custom modules
     - flexslider
